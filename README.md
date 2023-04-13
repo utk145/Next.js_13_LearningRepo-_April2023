@@ -59,4 +59,4 @@ yarn start
 //<video width="100%" height="auto" controls allowfullscreen>
 //<source src="/public/Untitled video - Made with Clipchamp.mp4" type="video/mp4">
 //</video>
-[View here](https://ezgif.com/video-to-gif/ezgif-3-ccb2b47835.webm)
+[View here](https://twitter.com/utks1455/status/1646445825512595457)
